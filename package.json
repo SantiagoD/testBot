@@ -1,0 +1,32 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "description": "Teste de bot para FB Messenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\"",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoD/testBot.git"
+  },
+  "keywords": [
+    "chatbot",
+    "bot",
+    "for",
+    "messenger",
+    "falaBot"
+  ],
+  "author": "Santiago D///",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiagoD/testBot/issues"
+  },
+  "homepage": "https://github.com/SantiagoD/testBot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  }
+}
